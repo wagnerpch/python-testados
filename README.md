@@ -12,6 +12,7 @@ Nesse repositórios, estão disponíveis alguns códigos de python, para auxilia
 
 ## Lista de arquivos de pastas e subpastas
 Arquivo: listFiles.py
+
 Objetivo: listar os arquivos de pastas e subpastas
 
 # Autor
