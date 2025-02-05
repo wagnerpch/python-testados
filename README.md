@@ -15,6 +15,10 @@ Arquivo: listFiles.py
 
 Objetivo: listar os arquivos de pastas e subpastas
 
+Arquivo: converterExcelToJson.py
+
+Objetivo: converte o excel em json, mantendo os títulos das colunas como chave no json
+
 # Autor
 
 Wagner Pereira Chequeleiro
