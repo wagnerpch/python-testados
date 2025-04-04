@@ -1,0 +1,3 @@
+#Instalações necessárias para executar o producer
+pip install python-dotenv
+pip install pika
